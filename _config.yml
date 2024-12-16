@@ -1,6 +1,17 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: <p align="center"> Hemanth Kumar Surendra Babu </p>
+logo: /assets/img/Hemanth.jpg
+description: 
+  <p align="center">
+  <a href="https://www.linkedin.com/in/hemantharya/">LinkedIn</a> |
+  <a href="https://github.com/hemantharya739">GitHub</a>
+  
+  <br>   
+  I'm working for Dell Technologies as an Escalation Storage Engineer for PowerStore. 
+  Known for my analytical mindset and problem-solving skills, I excel in troubleshooting, failure analysis, and guiding teams through complex technical issues.
+  I thrive in collaborative environments, where I can share my knowledge, mentor others, and contribute to innovative solutions that enhance product quality and customer satisfaction. 
+  My proactive approach and deep technical expertise enable me to deliver reliable results and drive continuous improvement in all aspects of my work.
+  <br>
+  </p>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
